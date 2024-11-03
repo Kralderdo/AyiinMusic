@@ -99,3 +99,6 @@ Special thanks to these amazing projects/people which/who help power Ayiin Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 - [AyiinXd](https://github.com/AyiinXd)
+
+### Heroku Kurulum ⏳
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyiinXd/AyiinMusic"
